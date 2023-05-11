@@ -23,7 +23,7 @@ from rasterio.crs import CRS
 
 # %%
 user = 'username2' 
-password = 'password!' 
+password = 'enterrealpassword!' 
 
 api = SentinelAPI(user, password, 'https://scihub.copernicus.eu/dhus')
 
